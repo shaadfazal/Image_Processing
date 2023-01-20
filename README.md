@@ -6,4 +6,10 @@ MATLAB Code files and thier respective output plot files:
 3. Segmentation_LevelSets.m Output Plot files a.Segmentation_LevelSets_Plots.jpg
 4. Starfish_Segmentation_pipeline.m Output Plot file a.Starfish_Segmentation_Plot
 
+test Images Used:
+1. mritest.jpg
+2. ctlung.jpg
+3. MRI_brain.jpg
+4. MRI_brain2.jpg
+5. starfish.jpg
 
