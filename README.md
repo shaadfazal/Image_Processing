@@ -1,2 +1,2 @@
 # Image_Processing
-Image processing projects in MATLAB 
+Image processing applications implementation in MATLAB environment, along with resulting plots and test images used
